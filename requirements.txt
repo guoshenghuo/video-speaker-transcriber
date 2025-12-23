@@ -1,0 +1,13 @@
+python_version == "3.11.*"
+openai-whisper
+matplotlib
+ipython
+openai==1.98.0
+safetensors==0.5.3
+transformers==4.38.2
+facenet_pytorch
+opencv-python==4.9.0.80
+pandas==2.2.1
+
+
+
