@@ -1,9 +1,9 @@
 ## Demo
-input1
-<video src="input1.mp4" width="800" controls></video>
-input2
-<video src="assets/demo.mp4" width="800" controls></video>
+### Input 1
+[input1.mp4](input1.mp4)
 
+### Input 2
+[demo.mp4](assets/demo.mp4)
 The generated subtitle files from demo inference are provided below:
 
 - [output1.srt](test_materials/output1.srt)
