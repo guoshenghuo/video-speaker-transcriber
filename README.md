@@ -5,8 +5,7 @@ The generated subtitle files from demo inference are provided below:
 
 - [output1.srt](test_materials/output1.srt)
 ### Input 2
-[demo.mp4](assets/demo.mp4)
-
+[input2.mp4](input2.mp4)
 The generated subtitle files from demo inference are provided below:
 
 - [output2.srt](test_materials/output2.srt)
