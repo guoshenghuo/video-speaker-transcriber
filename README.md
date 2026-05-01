@@ -20,6 +20,7 @@ Open audio_transcriber.py and modify the lines below:
 input_file = "test_materials/input1.mp4"   # your MP4 video path
 
 output_file = "output1.srt"                # custom SRT output name
+
 5. Run the script
 ```bash
 python audio_transcriber.py
